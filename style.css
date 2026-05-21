@@ -1,0 +1,23 @@
+        body{
+background-color: black;
+color: white;
+
+        }
+        li{
+            font-size: 23px;
+            color: brown;
+        }
+        #html{
+            color: rgb(226, 105, 18);
+        }
+        #css{
+            color: rgb(10, 88, 145);
+        }
+        #javascript{
+            color: rgb(235, 202, 19);
+        }
+        /*
+         2 li como azul claro
+         3 li como amarelo
+         /*
+        
