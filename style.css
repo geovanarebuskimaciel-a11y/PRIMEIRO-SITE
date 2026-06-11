@@ -16,15 +16,23 @@ color: white;
         #javascript{
             color: rgb(235, 202, 19);
         }
-        button{
-background-color: deeppink;
-padding: 10px 20px;/*ESPAÇO INTERNO/*
-margin
-border:
-    }
+       button{
+            background-color: blue;
+            padding: 10px 20px; /* ESPAÇO INTERNO */
+            margin: 10px; /* ESPAÇO EXTERNO */
+            border-radius: 10px; /* BORDA */
+        }
 
+        span{
+            front-size: 20px;
+            color: aliceblue
+        }
+        
 
+#acessivel{
 
+    
+}
 
 
     
