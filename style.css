@@ -16,23 +16,42 @@ color: white;
         #javascript{
             color: rgb(235, 202, 19);
         }
-       button{
-            background-color: blue;
-            padding: 10px 20px; /* ESPAÇO INTERNO */
-            margin: 10px; /* ESPAÇO EXTERNO */
-            border-radius: 10px; /* BORDA */
-        }
 
-        span{
-            front-size: 20px;
+
+#js{
+    color: yellow;
+}
+
+      
+        
+        button{
+    background-color: pink;
+    padding: 10px 20px; /* ESPAÇO INTERNO */
+    margin: 10px; /* ESPAÇO EXTERNO */
+    border-radius: 10px; /* BORDA */
+    max-width: 100px;
+}
+
+  span{
+            font-size: 20px;
             color: aliceblue
         }
-        
+
+        div{
+    display: flex;
+    flex-direction: column;
+}
+
 
 #acessivel{
-
-    
+    display: fixed;
+    left: 20px;
+    bottom: 20px;
 }
+
+
+
+
 
 
     

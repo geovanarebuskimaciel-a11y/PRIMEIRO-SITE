@@ -16,3 +16,8 @@ const botao = document, querySelector("button")
         document.body.style.fontSize = fonte + "px"; 
 
     }
+    // BOTÃO DO CONTRASTE
+
+    const contraste =
+    
+    // FUNÇÃO DO CONTRASTE
